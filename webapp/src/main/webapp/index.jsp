@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Modifying files hjfwhkjsdsdakjfweer </h2>
+<h1> WELCOME!!!</h1>
+<h2> Globe DevOps Automation Deployment Project. </h2>
